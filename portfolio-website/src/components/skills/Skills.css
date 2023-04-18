@@ -1,0 +1,5 @@
+.skills_img img{
+    clip-path: polygon(100% 0, 100% 100%, 52% 100%, 52% 100%, 0 45%);
+
+}
+

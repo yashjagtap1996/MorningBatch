@@ -1,0 +1,6 @@
+.home_img img{
+    clip-path: polygon(0 21%, 100% 0, 100% 100%, 16% 84%);}
+
+.Home{
+    min-height: 100vh;
+}
